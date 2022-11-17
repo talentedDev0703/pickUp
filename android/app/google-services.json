@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "395295103453",
+    "project_id": "pickups-app",
+    "storage_bucket": "pickups-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395295103453:android:ec544a68cd10e406e2be34",
+        "android_client_info": {
+          "package_name": "com.mycompany.pickups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395295103453-h35ntdb37e7hi72e5bk27n4u7ad9j7tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pickups",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "395295103453-3puo53og70g8kj1jbog4sa7v15uk77nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49fWEIvmd7Kj-JGwJRISAY1iF2EZS0x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395295103453-3puo53og70g8kj1jbog4sa7v15uk77nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395295103453-d1g6ja76onk4hosmut4g64tqhuuvrils.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pickups"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
